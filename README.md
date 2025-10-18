@@ -207,7 +207,3 @@ By the end of **Week 4**, you will:
 ✅ Construct and analyze CMOS inverter static/dynamic behavior.
 ✅ Calculate and interpret noise margins.
 ✅ Study robustness against power and device variations using Sky130 models.
-
----
-
-Would you like me to **format this as a GitHub-style README file (with markdown syntax, emojis, and collapsible sections)** or as a **PDF-ready report version** (for submission/documentation)?
