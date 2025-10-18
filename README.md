@@ -36,6 +36,9 @@ Through structured **SPICE simulations**, we explore how device parameters, geom
 * Identify **transition point** between linear and saturation region.
 * Extract **threshold voltage (Vth)** using SPICE.
 
+  <img width="1197" height="404" alt="image" src="https://github.com/user-attachments/assets/dcf832ea-c194-4228-a57b-5758fcbba05a" />
+
+
 ### 💬 **Concept Q&A**
 
 **Q1. Why do we need SPICE simulations in circuit design?**
